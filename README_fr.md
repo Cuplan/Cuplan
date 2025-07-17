@@ -45,8 +45,11 @@ Je suis un étudiant en data science, curieux, autodidacte et motivé à bâtir 
 
 ## 📊 Statistiques GitHub
 
-![Statistiques de Dylan](https://github-readme-stats.vercel.app/api?username=Cuplan&show_icons=true&theme=react)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Cuplan&layout=compact&theme=react)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cuplan&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cuplan&layout=compact&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cuplan&theme=react&hide_border=true" />
+</p>
 
 ---
 
