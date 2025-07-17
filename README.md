@@ -1,3 +1,7 @@
+<p align="right">
+   <a href="./README_fr.md">Read this profile in Frenchh</a>
+</p>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&width=435&lines=Hi+I'm+Dylan+Johnson" alt="Typing SVG" />
 
 
@@ -59,7 +63,5 @@ I'm a data science student. I’m building my career with calm ambition and long
 > 🎯 *Currently studying. My goal: become a data analyst or ML engineer and live a quiet, simple life in the next 10 years*
 > 
 
-## 🇫🇷 Want to read this profile in French?
-👉 [Click here for the French version](./README_fr.md)
 
 
