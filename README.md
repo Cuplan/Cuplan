@@ -4,7 +4,7 @@
 📚 Passionate about Python, SQL, Java, AI, automation and visualization  
 🌱 Currently growing — personally and professionally
 
----
+
 
 ## 🛠️ Technologies I Like Working With
 
@@ -16,7 +16,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
----
+
 
 ## 📌 Highlight Projects
 
@@ -26,7 +26,7 @@
 | 🌐 [Portfolio_Page](https://github.com/Cuplan/Portfolio_Page) | My personal portfolio built with React and Framer Motion animations |
 | 🤖 [projetML](https://github.com/Cuplan/projetML) | A basic classification model for animals using Weka (Java + .model output) |
 
----
+
 
 ## ✨ About Me
 
@@ -34,7 +34,7 @@ I'm a data science student. I’m building my career with calm ambition and long
 
 > "Coding is not just a tool. It’s how I train my brain to think, build and improve myself."
 
----
+
 
 ## 🌍 Links
 
@@ -42,14 +42,14 @@ I'm a data science student. I’m building my career with calm ambition and long
 - 💼 [LinkedIn](https://www.linkedin.com/in/dylan-johnson-447681280/)
 - 📫 johnsondylan14@gmail.com
 
----
+
 
 ## 📊 GitHub Stats
 
 ![Dylan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cuplan&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cuplan&layout=compact&theme=react)
 
----
+
 
 > 🎯 *Currently studying. My goal: become a data analyst or ML engineer and live a quiet, simple life in the next 10 years*
 
