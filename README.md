@@ -60,6 +60,6 @@ I'm a data science student. I’m building my career with calm ambition and long
 > 
 
 ## 🇫🇷 Want to read this profile in French?
-👉 [Click here for the French version](./README_FR.md)
+👉 [Click here for the French version](./README_fr.md)
 
 
