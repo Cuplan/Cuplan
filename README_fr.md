@@ -51,4 +51,5 @@ Je suis un étudiant en data science, curieux, autodidacte et motivé à bâtir 
 ---
 
 > 🎯 *Actuellement en formation. Mon objectif : devenir analyste de données ou ingénieur en ML — et vivre tranquillement au Japon d’ici 10 ans.*
+> 
 🌐 [Read this profile in English](README.md)
