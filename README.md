@@ -1,7 +1,4 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&width=435&lines=Hi+I'm+Dylan+Johnson" alt="Typing SVG" />
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
 
 🎓 Computer Science student (Data Science & ML) based in Trois-Rivières, Canada  
 📚 Passionate about Python, SQL, Java, AI, automation and visualization  
@@ -47,8 +44,13 @@ I'm a data science student. I’m building my career with calm ambition and long
 
 ## 📊 GitHub Stats
 
-![Dylan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cuplan&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cuplan&layout=compact&theme=react)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cuplan&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cuplan&layout=compact&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cuplan&theme=react&hide_border=true" />
+</p>
 
 
 
