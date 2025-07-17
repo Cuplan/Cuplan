@@ -1,4 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&width=435&lines=Hi+I'm+Dylan+Johnson" alt="Typing SVG" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
 🎓 Computer Science student (Data Science & ML) based in Trois-Rivières, Canada  
 📚 Passionate about Python, SQL, Java, AI, automation and visualization  
