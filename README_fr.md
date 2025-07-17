@@ -1,3 +1,8 @@
+<p align="right">
+   <a href="./README.md">Read this profile in English</a>
+</p>
+
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&width=435&lines=Salut%2C+je+suis+Dylan+Johnson" alt="Typing SVG" />
 
 🎓 Étudiant en informatique (Data science & apprentissage machine) à Trois-Rivières  
