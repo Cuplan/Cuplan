@@ -3,8 +3,11 @@
 🎓 Computer Science student (Data Science & ML) based in Trois-Rivières, Canada  
 📚 Passionate about Python, SQL, Java, AI, automation and visualization  
 🌱 Currently growing — personally and professionally
-
-
+[Étudiant en Data Science](https://img.shields.io/badge/Étudiant-Data%20Science-blue)
+![Python Lover](https://img.shields.io/badge/Python-Lover-yellow?logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-💡-orange)
+![Open to Work](https://img.shields.io/badge/Open_to_Work-green?logo=linkedin)
+![Made in Québec](https://img.shields.io/badge/Fier-d'être%20Québécois-blueviolet)
 
 ## 🛠️ Technologies I Like Working With
 
