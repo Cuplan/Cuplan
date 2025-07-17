@@ -1,5 +1,5 @@
 <p align="right">
-   <a href="./README_fr.md">Read this profile in Frenchh</a>
+   <a href="./README_fr.md">Read this profile in French</a>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&width=435&lines=Hi+I'm+Dylan+Johnson" alt="Typing SVG" />
