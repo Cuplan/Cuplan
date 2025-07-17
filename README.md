@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&width=435&lines=Hi+I'm+Dylan+Johnson;Data+Science+student+in+Québec;Loves+Python%2C+SQL%2C+ML%2C+React;Learning+%F0%9F%92%AA+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&width=435&lines=Hi+I'm+Dylan+Johnson" alt="Typing SVG" />
 
 🎓 Computer Science student (Data Science & ML) based in Trois-Rivières, Canada  
 📚 Passionate about Python, SQL, Java, AI, automation and visualization  
