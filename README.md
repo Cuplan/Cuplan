@@ -6,7 +6,9 @@
 
 
 🎓 Computer Science student (Data Science & ML) based in Trois-Rivières, Canada at Cégep De Trois-Rivières
+
 📚 Passionate about Python, SQL, Java, AI, automation and visualization  
+
 🌱 Currently growing — personally and professionally
 
 
