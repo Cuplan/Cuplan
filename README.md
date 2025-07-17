@@ -1,14 +1,12 @@
 <h1 align="center">Hi, I'm Dylan Johnson 👋</h1>
 
-🎓 Étudiant en informatique (Data science & ML) à Trois-Rivières  
-📚 Passionné par Python, SQL, Java, IA, automatisation et visualisation  
-🌱 En pleine croissance personnelle et professionnelle
+🎓 Computer Science student (Data Science & ML) based in Trois-Rivières, Canada  
+📚 Passionate about Python, SQL, Java, AI, automation and visualization  
+🌱 Currently growing — personally and professionally
 
 ---
 
-## 🛠️ Technologies
-
-**Langages & outils que j’aime utiliser :**
+## 🛠️ Technologies I Like Working With
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -20,24 +18,19 @@
 
 ---
 
-## 📌 Projets principaux
+## 📌 Highlight Projects
 
-| Projet | Description |
+| Project | Description |
 |--------|-------------|
-| 🔒 [Mdp_Gestionnaire](https://github.com/Cuplan/Mdp_Gestionnaire) | Application Python pour gérer localement ses mots de passe (avec interface graphique Tkinter) |
-| 📚 [gestion-biblio](https://github.com/Cuplan/gestion-biblio) | App mobile React Native pour cataloguer ses livres (scan ISBN + readlist) |
-| 🌐 [Portfolio_Page](https://github.com/Cuplan/Portfolio_Page) | Mon portfolio web en React avec animations Framer Motion |
-| 🤖 [projetML](https://github.com/Cuplan/projetML) | Mini projet de classification d’animaux avec Weka (Java + modèle .model) |
+| 🔒 [Mdp_Gestionnaire](https://github.com/Cuplan/Mdp_Gestionnaire) | Python-based password manager with local storage and Tkinter GUI |
+| 🌐 [Portfolio_Page](https://github.com/Cuplan/Portfolio_Page) | My personal portfolio built with React and Framer Motion animations |
+| 🤖 [projetML](https://github.com/Cuplan/projetML) | A basic classification model for animals using Weka (Java + .model output) |
 
 ---
 
-## ✨ À propos de moi
+## ✨ About Me
 
-🇫🇷 **FR** :  
-Je suis un étudiant en data science, curieux, autodidacte et motivé à bâtir un avenir durable (et paisible). Je vise un mode de vie simple, proche de la nature — mais je suis à l’aise dans l’univers complexe de la donnée.
-
-🇬🇧 **EN** :  
-I'm a curious and focused CS student from Québec, Canada. I'm currently learning data science, Python and machine learning — aiming to build intelligent tools while moving toward a simpler life close to nature.
+I'm a data science student. I’m building my career with calm ambition and long-term sustainability in mind. While I love code and complex systems, I aim to live simply, close to nature.
 
 > "Coding is not just a tool. It’s how I train my brain to think, build and improve myself."
 
@@ -45,7 +38,7 @@ I'm a curious and focused CS student from Québec, Canada. I'm currently learnin
 
 ## 🌍 Links
 
-- 🔗 [Portfolio Web](https://dylan-johnson-dev.vercel.app)
+- 🔗 [My Web Portfolio](https://dylan-johnson-dev.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/dylan-johnson-447681280/)
 - 📫 johnsondylan14@gmail.com
 
@@ -58,5 +51,5 @@ I'm a curious and focused CS student from Québec, Canada. I'm currently learnin
 
 ---
 
-> 🎯 *Actuellement en formation. Mon objectif : devenir data analyst ou ML engineer — et vivre tranquillement au Japon d'ici 10 ans.*
+> 🎯 *Currently studying. My goal: become a data analyst or ML engineer and live a quiet, simple life in the next 10 years*
 
