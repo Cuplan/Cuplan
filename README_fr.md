@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c’est Dylan Johnson 👋</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&width=435&lines=Salut%2C+je+suis+Dylan+Johnson" alt="Typing SVG" />
 
 🎓 Étudiant en informatique (Data science & apprentissage machine) à Trois-Rivières  
 📚 Passionné par Python, SQL, Java, IA, automatisation et visualisation  
