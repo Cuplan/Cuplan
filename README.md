@@ -1,16 +1,17 @@
-# Salut, moi c'est Dylan 👋
+# Hi, I'm Dylan 👋
 
-🎓 Étudiant en informatique (focus Data Science + IA)  
-📍 Basé à Trois-Rivières, Québec  
-🎯 Objectif : devenir Data Scientist ou ML Engineer
-👨‍💻 Stack : Python, Pandas, scikit-learn, SQL, Git  
-🧠 En ce moment : j'apprends le NLP et j'améliore mes projets IA
+🎓 Computer science student focused on Data Science & AI  
+📍 Based in Trois-Rivières, Quebec, Canada  
+🎯 Goal: Become a Data Scientist or Machine Learning Engineer  
+👨‍💻 Tech Stack: Python, Pandas, scikit-learn, SQL, Git  
+🧠 Currently learning NLP and improving my AI-related projects
 
-## 📫 Me contacter
-- [LinkedIn](https://www.linkedin.com/in/dylan-johnson-447681280)
-- Email : johnsondylan14@gmail.com
-- [Portefolio](https://dylan-johnson-dev.vercel.app)
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/dylan-johnson-447681280)  
+- Email: johnsondylan14@gmail.com  
+- [Portfolio](https://dylan-johnson-dev.vercel.app)
 
-## 🔍 Projets en vedette
-- **[Générateur de mots de passe](https://github.com/Cuplan/Mdp_Gestionnaire.git) : gestionnaire sécurisé avec GUI
-- **[Mon Portefolio](https://github.com/Cuplan/Portfolio_Page) : TP orienté data science
+## 🔍 Featured Projects
+- **[Password Generator](https://github.com/Cuplan/Mdp_Gestionnaire.git)**: Secure password manager with GUI  
+- **[My Portfolio Website](https://github.com/Cuplan/Portfolio_Page.git)**: Personal portfolio built with React + Vite
+- **[Machine Learning in Java](https://github.com/Cuplan/projetML.git)**: Guessing game with Weka Library
