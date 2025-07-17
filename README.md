@@ -1,4 +1,4 @@
-# Hi, I'm Dylan 👋
+# Hi, I'm Dylan 👋 
 
 🎓 Computer science student focused on Data Science & AI  
 📍 Based in Trois-Rivières, Quebec, Canada  
@@ -15,3 +15,5 @@
 - **[Password Generator](https://github.com/Cuplan/Mdp_Gestionnaire.git)**: Secure password manager with GUI  
 - **[My Portfolio Website](https://github.com/Cuplan/Portfolio_Page.git)**: Personal portfolio built with React + Vite
 - **[Machine Learning in Java](https://github.com/Cuplan/projetML.git)**: Guessing game with Weka Library
+
+> 🇫🇷 [Lire ce profil en français](README_fr.md)
