@@ -13,6 +13,13 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 
+## 📌 Projets phares
+
+- 🔒 [Gestionnaire de mots de passe](https://github.com/Cuplan/Mdp_Gestionnaire)
+- 📚 [Gestionnaire de bibliothèque mobile](https://github.com/Cuplan/gestion-biblio)
+- 🌐 [Portfolio en React](https://github.com/Cuplan/Portfolio_Page)
+- 🧠 [Projet ML en Java avec Weka](https://github.com/Cuplan/projetML)
+
 ## 📫 Me contacter
 - [LinkedIn](https://www.linkedin.com/in/dylan-johnson-447681280)
 - Email : johnsondylan14@gmail.com
