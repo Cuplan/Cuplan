@@ -11,6 +11,6 @@
 - Email : johnsondylan14@gmail.com
 - [Portefolio](https://dylan-johnson-dev.vercel.app)
 
-### 🔍 Projets en vedette
+## 🔍 Projets en vedette
 - **[Générateur de mots de passe](https://github.com/Cuplan/Mdp_Gestionnaire.git) : gestionnaire sécurisé avec GUI
 - **[Mon Portefolio](https://github.com/Cuplan/Portfolio_Page) : TP orienté data science
