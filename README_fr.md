@@ -16,7 +16,6 @@
 ## 📌 Projets phares
 
 - 🔒 [Gestionnaire de mots de passe](https://github.com/Cuplan/Mdp_Gestionnaire)
-- 📚 [Gestionnaire de bibliothèque mobile](https://github.com/Cuplan/gestion-biblio)
 - 🌐 [Portfolio en React](https://github.com/Cuplan/Portfolio_Page)
 - 🧠 [Projet ML en Java avec Weka](https://github.com/Cuplan/projetML)
 
