@@ -58,6 +58,8 @@ I'm a data science student. I’m building my career with calm ambition and long
 
 > 🎯 *Currently studying. My goal: become a data analyst or ML engineer and live a quiet, simple life in the next 10 years*
 > 
-🌐 [Read this profile in French](README_fr.md)
+
+## 🇫🇷 Want to read this profile in French?
+👉 [Click here for the French version](./README_FR.md)
 
 
